@@ -10,7 +10,6 @@ Desenvolver um sistema que implemente funcionalidades de autenticação e contro
 #### **1. Login de Usuário**
 - Criar um sistema de login que autentique usuários com base em suas credenciais.
 - Não é necessário implementar a funcionalidade de cadastro; os usuários já devem existir no sistema.
-- Após o login, cada tipo de usuário será redirecionado para uma área específica com funcionalidades adequadas ao seu papel.
 
 #### **2. Controle de Papéis de Usuário**
 - **Admin**:
